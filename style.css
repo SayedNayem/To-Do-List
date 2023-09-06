@@ -1,0 +1,23 @@
+body{
+    background-image: url(background1.jpg);
+    background-size: auto;
+    }
+.task {
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.favorite-block {
+    background-color: #69a8df;
+    padding: 10px;
+    border: 1px solid #b0e0e6;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    
+}
+.inbox-block {
+    background-color:antiquewhite;
+    padding: 10px;
+    border: 1px solid aquamarine;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
